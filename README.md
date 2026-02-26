@@ -1,47 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ryhan (Xenzuu)</h1>
-<h3 align="center">Cybersecurity Learner | Future White Hat</h3>
+<h1 align="center">Hai 👋, Saya RAIHAN</h1>
+<h3 align="center">TI Acak</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xenzuu7&label=Profile%20views&color=0e75b6&style=flat" alt="xenzuu7" /> </p>
 
-## 🧠 About Me
-- 🎓 Student from Indonesia  
-- 🔐 Focused on Web Security & Offensive Security  
-- 🧪 Currently learning PortSwigger Labs & Linux  
-- 🚀 Building my journey to become a professional bug hunter  
+- 📫 Cara menghubungi saya **ryuugakusee7@gmail.com**
 
----
-
-## 🔥 Current Focus
-- Web Exploitation
-- Linux Fundamentals
-- Networking Basics
-- Writing Security Notes & Labs
-
----
-
-## 🛠 Tools & Technologies
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<h3 align="left">Terhubung dengan saya:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://https://id.linkedin.com/in/raihanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://id.linkedin.com/in/raihanafi" height="30" width="40" /></a>
+<a href="https://instagram.com/https://https://www.instagram.com/xenzuu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://https://www.instagram.com/xenzuu7" height="30" width="40" /></a>
+<a href="https://medium.com/@xenzuu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xenzuu7" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Bahasa dan Alat:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/> tinggi="40"/> </a></p>
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Xenzuu7&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenzuu7&layout=compact" />
-</p>
-
----
-
-## 🌐 Connect With Me
-- 📷 Instagram: https://instagram.com/rayyzenx_
-- ▶ YouTube: https://youtube.com/c/xenzuu
-
----
-
-> “Consistency beats motivation.” 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xenzuu7&" alt="xenzuu7" /></p>
