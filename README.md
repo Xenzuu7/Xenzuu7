@@ -8,22 +8,24 @@
 * 📫 How to contact me? **[cbtrglobal@gmail.com](mailto:cbtrglobal@gmail.com)**
 
 <h3 align="left">Connect With Me:</h3>
+
 <p align="left">
   <a href="https://id.linkedin.com/in/raihanafi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/xenzuu7" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
   <a href="https://medium.com/@xenzuu7" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/medium" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
   </a>
   <a href="https://xenzuu7.blogspot.com/" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/blogger" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/blogger" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
