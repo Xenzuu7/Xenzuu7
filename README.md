@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=xenzuu7&label=Profile%20views&color=0e75b6&style=flat" alt="xenzuu7" />
 </p>
 
-* 📫 Cara menghubungi saya **[xenz77@gmail.com](mailto:cbtrglobal@gmail.com)**
+* 📫 Cara menghubungi saya **[cbtrglobal@gmail.com](mailto:cbtrglobal@gmail.com)**
 
 <h3 align="left">Terhubung dengan saya:</h3>
 <p align="left">
