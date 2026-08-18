@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=xenzuu7&label=Profile%20views&color=0e75b6&style=flat" alt="xenzuu7" />
 </p>
 
-- 📫 Cara menghubungi saya **xenz77@gmail.com**
+* 📫 Cara menghubungi saya **[xenz77@gmail.com](mailto:cbtrglobal@gmail.com)**
 
 <h3 align="left">Terhubung dengan saya:</h3>
 <p align="left">
@@ -22,26 +22,14 @@
 
 <h3 align="left">Bahasa dan Alat:</h3>
 <p align="left">
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://cloud.google.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 </a>
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </a>
 </p>
 
